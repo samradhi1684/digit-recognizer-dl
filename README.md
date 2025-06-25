@@ -11,16 +11,6 @@ This project implements a Convolutional Neural Network (CNN) to recognize handwr
 - 📈 **Accuracy**: Achieves over **99% training accuracy** and ~**98.6% validation accuracy**
 - 📊 **Evaluation**: Accuracy/Loss graphs and confusion matrix
 
-<br>
-
-## 📁 Files Included
-
-- `digit_recognition_cnn.ipynb`: Full Colab notebook with model training, evaluation, and visualizations
-- `model_architecture.png`: CNN architecture visualization
-- `accuracy_loss_plots.png`: Training vs validation performance
-- `confusion_matrix.png`: Model predictions breakdown
-
-<br>
 
 ## 🚀 How to Run
 
@@ -42,17 +32,6 @@ You can run this project directly in Google Colab:
 - 🎯 Accurate predictions on unseen test data
 - 🧩 Visualization of model accuracy, loss trends, and prediction errors
 
-<p align="center">
-  <img src="accuracy_loss_plots.png" width="400"/>  
-  <br><em>Training vs Validation Accuracy & Loss</em>
-</p>
-
-<p align="center">
-  <img src="confusion_matrix.png" width="400"/>  
-  <br><em>Confusion Matrix</em>
-</p>
-
-<br>
 
 ## 🌐 Future Work
 
